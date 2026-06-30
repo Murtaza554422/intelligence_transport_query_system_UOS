@@ -1,0 +1,239 @@
+{
+    "university": "University of Swat",
+    "document": "Complete Bus Route & Fare Information",
+    "date": "April 2025",
+    "fares": {
+        "Charbagh": {
+            "one_side": 20,
+            "two_side": 40,
+            "semester": 3400
+        },
+        "Khwazakhela": {
+            "one_side": 50,
+            "two_side": 100,
+            "semester": 8500
+        },
+        "Matta/Sambat": {
+            "one_side": 60,
+            "two_side": 120,
+            "semester": 10200
+        },
+        "Kota": {
+            "one_side": 120,
+            "two_side": 240,
+            "semester": 20400
+        },
+        "Kabal": {
+            "one_side": 80,
+            "two_side": 160,
+            "semester": 13600
+        },
+        "Chinogan": {
+            "one_side": 60,
+            "two_side": 120,
+            "semester": 10200
+        },
+        "Islam Pur": {
+            "one_side": 100,
+            "two_side": 200,
+            "semester": 17000
+        },
+        "Bypass": {
+            "one_side": 60,
+            "two_side": 120,
+            "semester": 10200
+        },
+        "Aboha": {
+            "one_side": 80,
+            "two_side": 160,
+            "semester": 13600
+        },
+        "Dangram": {
+            "one_side": 70,
+            "two_side": 140,
+            "semester": 11900
+        }
+    },
+    "buses": [
+        {
+            "bus_no": 1,
+            "registration": "A-1432",
+            "capacity": 32,
+            "max_students": 30,
+            "driver": "Hussain Ali",
+            "cleaner": "Usman Ud Din",
+            "route": [
+                "Deolai",
+                "Kabal",
+                "Kanju",
+                "Charbagh"
+            ]
+        },
+        {
+            "bus_no": 2,
+            "registration": "A-1433",
+            "capacity": 32,
+            "max_students": 25,
+            "driver": "Hayat Khan",
+            "route": [
+                "Sirsinai",
+                "Charbagh",
+                "Khwazakhela",
+                "Matta",
+                "Chinogan"
+            ]
+        },
+        {
+            "bus_no": 3,
+            "registration": "A-1540",
+            "capacity": 53,
+            "max_students": 54,
+            "driver": "Aurangzeb",
+            "route": [
+                "Kokri",
+                "Islam Pur",
+                "Bypass",
+                "Charbagh"
+            ]
+        },
+        {
+            "bus_no": 4,
+            "registration": "A-1541",
+            "capacity": 53,
+            "max_students": 60,
+            "driver": "Saadullah",
+            "route": [
+                "Baidara",
+                "Fatehpur",
+                "Charbagh",
+                "Chinogan",
+                "Matta",
+                "Charbagh"
+            ]
+        },
+        {
+            "bus_no": 5,
+            "registration": "A-1542",
+            "capacity": 53,
+            "max_students": 56,
+            "driver": "Ummat Khan",
+            "route": [
+                "Kota",
+                "Aboha",
+                "Charbagh"
+            ]
+        },
+        {
+            "bus_no": 6,
+            "registration": "A-1539",
+            "capacity": 53,
+            "max_students": 63,
+            "driver": "Ghulam Nabi",
+            "route": [
+                "Kota",
+                "Aboha",
+                "Charbagh"
+            ]
+        },
+        {
+            "bus_no": 7,
+            "registration": "A-1636",
+            "capacity": 53,
+            "max_students": 65,
+            "driver": "Saddam Hussain",
+            "route": [
+                "Kokri",
+                "Islam Pur",
+                "Bypass",
+                "Charbagh",
+                "Saidu",
+                "Bypass",
+                "Charbagh"
+            ]
+        },
+        {
+            "bus_no": 8,
+            "registration": "A-1634",
+            "capacity": 32,
+            "max_students": 35,
+            "driver": "Salah Uddin / Sajjad Hussain",
+            "route": [
+                "Kokri",
+                "Dangram",
+                "Charbagh"
+            ]
+        },
+        {
+            "bus_no": 9,
+            "registration": "A-1635",
+            "capacity": 53,
+            "max_students": 55,
+            "driver": "Murad Hussain",
+            "route": [
+                "Chinogan",
+                "Matta",
+                "Charbagh",
+                "Kokri",
+                "Islam Pur",
+                "Bypass",
+                "Charbagh"
+            ]
+        },
+        {
+            "bus_no": 10,
+            "registration": "A-1690",
+            "capacity": 32,
+            "max_students": 40,
+            "driver": "Zia ur Rahman",
+            "route": [
+                "Kotly",
+                "Kabal",
+                "Township",
+                "Charbagh",
+                "Sharif Abad",
+                "Kabal",
+                "Township",
+                "Charbagh"
+            ]
+        },
+        {
+            "bus_no": 11,
+            "registration": "A-1689",
+            "capacity": 32,
+            "max_students": 55,
+            "driver": "Muh. Ismail",
+            "route": [
+                "Baidara",
+                "Fatehpur",
+                "Charbagh"
+            ]
+        },
+        {
+            "bus_no": 12,
+            "registration": "A-1803",
+            "capacity": 53,
+            "max_students": 75,
+            "driver": "Sajjad Hussain / Mian Said Bashar",
+            "route": [
+                "Saidu",
+                "Bypass",
+                "Charbagh",
+                "Chinogan",
+                "Matta",
+                "Charbagh"
+            ]
+        },
+        {
+            "bus_no": 13,
+            "registration": "A-1810",
+            "capacity": 63,
+            "driver": "Mian Said Bashar",
+            "route": [
+                "Chinogan",
+                "Matta",
+                "Charbagh"
+            ]
+        }
+    ],
+    "relief_driver": "Roshan Ali"
+}
